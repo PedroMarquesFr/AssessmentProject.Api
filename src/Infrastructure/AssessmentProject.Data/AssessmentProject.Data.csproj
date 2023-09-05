@@ -23,7 +23,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\Labsoft.DataAcquisition.Domain\AssessmentProject.Domain.csproj" />
+    <ProjectReference Include="..\..\AssessmentProject.Domain\AssessmentProject.Domain.csproj" />
   </ItemGroup>
 
   <ItemGroup>

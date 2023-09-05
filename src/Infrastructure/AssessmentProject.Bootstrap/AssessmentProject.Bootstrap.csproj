@@ -28,9 +28,9 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\Labsoft.DataAcquisition.Application\AssessmentProject.Application.csproj" />
-    <ProjectReference Include="..\..\Labsoft.DataAcquisition.Shared\AssessmentProject.Shared.csproj" />
-    <ProjectReference Include="..\Labsoft.DataAcquisition.Data\AssessmentProject.Data.csproj" />
+    <ProjectReference Include="..\..\AssessmentProject.Application\AssessmentProject.Application.csproj" />
+    <ProjectReference Include="..\..\AssessmentProject.Shared\AssessmentProject.Shared.csproj" />
+    <ProjectReference Include="..\AssessmentProject.Data\AssessmentProject.Data.csproj" />
   </ItemGroup>
 
 </Project>

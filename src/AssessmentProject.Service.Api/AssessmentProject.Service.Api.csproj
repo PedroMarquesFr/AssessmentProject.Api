@@ -20,10 +20,10 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Infrastructure\Labsoft.DataAcquisition.Bootstrap\AssessmentProject.Bootstrap.csproj" />
-    <ProjectReference Include="..\Infrastructure\Labsoft.DataAcquisition.Data\AssessmentProject.Data.csproj" />
-    <ProjectReference Include="..\Infrastructure\Labsoft.DataAcquisition.Services\AssessmentProject.Services.csproj" />
-    <ProjectReference Include="..\Labsoft.DataAcquisition.Application\AssessmentProject.Application.csproj" />
+    <ProjectReference Include="..\Infrastructure\AssessmentProject.Bootstrap\AssessmentProject.Bootstrap.csproj" />
+    <ProjectReference Include="..\Infrastructure\AssessmentProject.Data\AssessmentProject.Data.csproj" />
+    <ProjectReference Include="..\Infrastructure\AssessmentProject.Services\AssessmentProject.Services.csproj" />
+    <ProjectReference Include="..\AssessmentProject.Application\AssessmentProject.Application.csproj" />
   </ItemGroup>
 
 </Project>

@@ -11,7 +11,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\Labsoft.DataAcquisition.Application\AssessmentProject.Application.csproj" />
+    <ProjectReference Include="..\..\AssessmentProject.Application\AssessmentProject.Application.csproj" />
   </ItemGroup>
 
 </Project>

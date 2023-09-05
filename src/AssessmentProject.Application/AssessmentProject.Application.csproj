@@ -11,8 +11,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Labsoft.DataAcquisition.Domain\AssessmentProject.Domain.csproj" />
-    <ProjectReference Include="..\Labsoft.DataAcquisition.Shared\AssessmentProject.Shared.csproj" />
+    <ProjectReference Include="..\AssessmentProject.Domain\AssessmentProject.Domain.csproj" />
+    <ProjectReference Include="..\AssessmentProject.Shared\AssessmentProject.Shared.csproj" />
   </ItemGroup>
 
   <ItemGroup>

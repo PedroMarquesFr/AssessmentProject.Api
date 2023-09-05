@@ -1,4 +1,4 @@
-## Labsoft.DataAcquisition.API - ASP.NET 6
+## AssessmentProject.API - ASP.NET 6
 This is the solution Web API for the Data Acquisition.
 
 ****
@@ -80,5 +80,5 @@ The integration tests should ideally be performed directly through the Service A
 1) The first step is: Generate a Developer Secutity Certificate to SSL Web App:
 - Open a PowerShell prompt and run: dotnet dev-certs https --clean
 - After this, with the Powershell openned fire the command: dotnet dev-certs https --trust -ep $env:USERPROFILE\.aspnet\https\aspnetapp.pfx -p appuser@123
-2) Open a PowerShell terminal, go to in project solution folder (the same folder where is Labsoft.DataAcquisition.Api) and fire the command: docker-compose up
+2) Open a PowerShell terminal, go to in project solution folder (the same folder where is AssessmentProject.Api) and fire the command: docker-compose up
 3) Open a browser and access the url: https://localhost:5001/swagger/index.html
